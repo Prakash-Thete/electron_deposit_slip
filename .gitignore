@@ -1,0 +1,12 @@
+node_modules/
+
+bower_components/
+
+.idea
+.DS_Store
+.env
+.vagrant
+
+package-lock.json
+
+.vscode/
